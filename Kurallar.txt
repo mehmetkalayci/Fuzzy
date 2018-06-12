@@ -1,0 +1,37 @@
+Hız	Mesafe	Ağırlık
+Az	Az	Az
+Az	Az	Orta
+Az	Az	Yüksek
+Az	Orta	Az
+Az	Orta	Orta
+Az	Orta	Yüksek
+Az	Yüksek	Az
+Az	Yüksek	Orta
+Az	Yüksek	Yüksek
+Orta	Az	Az
+Orta	Az	Orta
+Orta	Az	Yüksek
+Orta	Orta	Az
+Orta	Orta	Orta
+Orta	Orta	Yüksek
+Orta	Yüksek	Az
+Orta	Yüksek	Orta
+Orta	Yüksek	Yüksek
+Yüksek	Az	Az
+Yüksek	Az	Orta
+Yüksek	Az	Yüksek
+Yüksek	Orta	Az
+Yüksek	Orta	Orta
+Yüksek	Orta	Yüksek
+Yüksek	Yüksek	Az
+Yüksek	Yüksek	Orta
+Yüksek	Yüksek	Yüksek
+Çok Yüksek	Az	Az
+Çok Yüksek	Az	Orta
+Çok Yüksek	Az	Yüksek
+Çok Yüksek	Orta	Az
+Çok Yüksek	Orta	Orta
+Çok Yüksek	Orta	Yüksek
+Çok Yüksek	Yüksek	Az
+Çok Yüksek	Yüksek	Orta
+Çok Yüksek	Yüksek	Yüksek
